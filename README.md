@@ -46,6 +46,9 @@ You can also see your score at the end of the quiz.
 - so we call the questionClick() function to check the answer.
 
 ```
+![screenshot
+](https://github.com/Lotusniro/Mcq-Quiz/blob/main/assets/screenshots/Screenshot%202024-01-14%20at%2016.42.12.png)
+
 
 ```
 3. function questionClick() is used to check the answer.
