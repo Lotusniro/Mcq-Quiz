@@ -25,9 +25,10 @@ You can also see your score at the end of the quiz.
 - hide is already given in the style.css file.(display:none)
 - startQuiz() function is called when we click start button.
 
+
+```
 ![screenshot
 ](https://github.com/Lotusniro/Mcq-Quiz/blob/main/assets/screenshots/Screenshot%202024-01-14%20at%2016.42.39.png)
-```
 
 ```
 2. function startQuiz() is used to start the quiz.
