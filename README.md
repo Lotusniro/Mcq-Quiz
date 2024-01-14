@@ -64,6 +64,8 @@ You can also see your score at the end of the quiz.
 - it will clear the timer.
 - it will hide the questions and display the score using endscreen element.
 ```
+![screeshot
+](https://github.com/Lotusniro/Mcq-Quiz/blob/main/assets/screenshots/Screenshot%202024-01-14%20at%2016.42.51.png)
 
 ```
 5. function saveHighscore() is used to save the highscore.
