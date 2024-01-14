@@ -91,5 +91,7 @@ You can also see your score at the end of the quiz.
 [
 ](https://lotusniro.github.io/Mcq-Quiz/)https://lotusniro.github.io/Mcq-Quiz/
 
+[
+](https://github.com/Lotusniro/Mcq-Quiz)https://github.com/Lotusniro/Mcq-Quiz
 
 
