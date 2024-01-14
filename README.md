@@ -73,6 +73,8 @@ You can also see your score at the end of the quiz.
 - or get a new array push the score to the array and set the array to the local storage.
 
 ```
+![screenshot
+](https://github.com/Lotusniro/Mcq-Quiz/blob/main/assets/screenshots/Screenshot%202024-01-14%20at%2016.43.03.png)
 
 ```
 6.score.js file is used to display the highscore.
