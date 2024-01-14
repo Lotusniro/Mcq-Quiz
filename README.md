@@ -51,11 +51,13 @@ You can also see your score at the end of the quiz.
 
 
 ```
-3. function questionClick() is used to check the answer.
+3. function choiceClick() is used to check the answer.
 - if the answer is wrong it will deduct 10 seconds from the timer and make a sound.
 - if the answer is correct it will make a sound and display the next question.
 - if the index of array is equal to the length of the array it will call the endQuiz() function.
 ```
+![screenshot
+](https://github.com/Lotusniro/Mcq-Quiz/blob/main/assets/screenshots/Screenshot%202024-01-14%20at%2016.42.20.png)
 
 ```
 4. function endQuiz() is used to end the quiz.
