@@ -85,6 +85,8 @@ You can also see your score at the end of the quiz.
 - window.reload() is used to reload the page.
 - if not  highscore will be displayed in the list.
 ```
+![screenshot
+](https://github.com/Lotusniro/Mcq-Quiz/blob/main/assets/screenshots/Screenshot%202024-01-14%20at%2016.43.23.png)
 
 ## Credits
 - Edx Teachers
